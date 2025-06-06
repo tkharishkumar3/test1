@@ -1,2 +1,0 @@
-  Created a new file "test3.txt" for practicing the Insert->Add->Commit->Push features
-  Added a new line in order to verify the modified details
