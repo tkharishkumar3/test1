@@ -1,1 +1,1 @@
-Created a new text file using visual studio code in order to understand the Git, GitHug, Workking file and Staging area 
+Created a new line to Test the PULL command
